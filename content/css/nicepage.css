@@ -16690,6 +16690,7 @@ p {
 .u-text {
   word-wrap: break-word;
   position: relative;
+  margin: auto;
 }
 .u-word-break {
   word-break: break-all;
