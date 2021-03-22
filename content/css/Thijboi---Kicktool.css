@@ -9,6 +9,10 @@
     z-index: 21;
 }
 
+.map_mode {
+    margin: auto;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-right: 0;
