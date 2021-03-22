@@ -23,16 +23,19 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 517px;
-  }
+    .u-section-1 .u-text-1 {
+        /*margin-left: 517px;*/
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 337px;
-
-  }
+    .u-section-1 .u-text-1 {
+        /*margin-left: 337px;*/
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media (max-width: 575px) {
