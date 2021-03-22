@@ -20,17 +20,14 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    /*margin-left: 517px;*/
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 517px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
-    /*margin-left: 337px;*/
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 337px;
+
   }
 }
 
