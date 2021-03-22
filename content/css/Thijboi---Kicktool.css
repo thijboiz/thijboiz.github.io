@@ -13,34 +13,34 @@
     margin: auto;
 }
 
+/*margin-left: 737px;*/
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-right: 0;
-    /*margin-left: 737px;*/
     margin-left: auto;
     margin-right: auto;
   }
 }
 
+/*margin-left: 517px;*/
 @media (max-width: 991px) {
     .u-section-1 .u-text-1 {
-        /*margin-left: 517px;*/
         margin-left: auto;
         margin-right: auto;
     }
 }
 
+ /*margin-left: 337px;*/
 @media (max-width: 767px) {
     .u-section-1 .u-text-1 {
-        /*margin-left: 337px;*/
         margin-left: auto;
         margin-right: auto;
     }
 }
 
+/*margin-left: 137px;*/
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    /*margin-left: 137px;*/
     margin-left: auto;
     margin-right: auto;
   }
